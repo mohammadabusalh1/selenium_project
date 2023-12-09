@@ -1,0 +1,11 @@
+com\seleniumproject\activityTypes\AddActivityTypes.class
+com\seleniumproject\Base.class
+com\seleniumproject\LoginPage.class
+com\seleniumproject\jobeTitles\ShowJobTitles.class
+com\seleniumproject\Officials\ShowOfficialsPage.class
+com\seleniumproject\jobeTitles\AddJobTitles.class
+com\seleniumproject\Main.class
+com\seleniumproject\ass\URLs.class
+com\seleniumproject\Officials\AddOfficials.class
+com\seleniumproject\ass\Variables.class
+com\seleniumproject\activityTypes\ActivityTypes.class

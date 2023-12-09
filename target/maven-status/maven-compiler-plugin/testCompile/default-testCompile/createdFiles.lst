@@ -1,0 +1,9 @@
+com\seleniumproject\BaseTest.class
+com\seleniumproject\LoginTest.class
+com\seleniumproject\activityTypes\activityTypesTest.class
+com\seleniumproject\jobeTitles\ShowJobTitlesTest.class
+com\seleniumproject\Officials\ShowOfficialsPageTest.class
+com\seleniumproject\activityTypes\addActivityTypesTest.class
+com\seleniumproject\jobeTitles\addJobTitlesTest.class
+com\seleniumproject\WebDriverFactory.class
+com\seleniumproject\Officials\addOfficialsTest.class

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite1" parallel="tests" thread-count="2">
+    <test name="Test1">
+        <classes>
+            <class name="com.seleniumproject.LoginTest" />
+        </classes>
+    </test>
+    <test name="Test2">
+        <classes>
+            <class name="com.seleniumproject.activityTypes.addActivityTypesTest" />
+        </classes>
+    </test>
+    <test name="Test3">
+        <classes>
+            <class name="com.seleniumproject.activityTypes.activityTypesTest" />
+        </classes>
+    </test>
+    <test name="Test4">
+        <classes>
+            <class name="com.seleniumproject.jobeTitles.addJobTitlesTest" />
+        </classes>
+    </test>
+    <test name="Test5">
+        <classes>
+            <class name="com.seleniumproject.jobeTitles.ShowJobTitlesTest" />
+        </classes>
+    </test>
+    <test name="Test6">
+        <classes>
+            <class name="com.seleniumproject.Officials.addOfficialsTest" />
+        </classes>
+    </test>
+    <test name="Test7">
+        <classes>
+            <class name="com.seleniumproject.Officials.ShowOfficialsPageTest" />
+        </classes>
+    </test>
+</suite>

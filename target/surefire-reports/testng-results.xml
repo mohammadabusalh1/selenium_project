@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="17" passed="17" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-12-09T10:00:47 EET" name="Suite1" finished-at="2023-12-09T10:01:32 EET" duration-ms="45908">
+    <groups>
+    </groups>
+    <test started-at="2023-12-09T10:00:47 EET" name="Test2" finished-at="2023-12-09T10:00:54 EET" duration-ms="7095">
+      <class name="com.seleniumproject.activityTypes.addActivityTypesTest">
+        <test-method signature="addActivityType()[pri:0, instance:com.seleniumproject.activityTypes.addActivityTypesTest@747ddf94]" started-at="2023-12-09T10:00:47 EET" name="addActivityType" finished-at="2023-12-09T10:00:54 EET" duration-ms="7068" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addActivityType -->
+      </class> <!-- com.seleniumproject.activityTypes.addActivityTypesTest -->
+    </test> <!-- Test2 -->
+    <test started-at="2023-12-09T10:00:47 EET" name="Test1" finished-at="2023-12-09T10:01:03 EET" duration-ms="16283">
+      <class name="com.seleniumproject.LoginTest">
+        <test-method signature="testChangeLanguage()[pri:0, instance:com.seleniumproject.LoginTest@6e20b53a]" started-at="2023-12-09T10:00:47 EET" name="testChangeLanguage" finished-at="2023-12-09T10:00:51 EET" duration-ms="4392" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testChangeLanguage -->
+        <test-method signature="testInvalidLogin()[pri:0, instance:com.seleniumproject.LoginTest@6e20b53a]" started-at="2023-12-09T10:00:51 EET" name="testInvalidLogin" finished-at="2023-12-09T10:00:55 EET" duration-ms="4323" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testInvalidLogin -->
+        <test-method signature="testLogin()[pri:0, instance:com.seleniumproject.LoginTest@6e20b53a]" started-at="2023-12-09T10:00:55 EET" name="testLogin" finished-at="2023-12-09T10:00:58 EET" duration-ms="3213" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogin -->
+        <test-method signature="testLogout()[pri:0, instance:com.seleniumproject.LoginTest@6e20b53a]" started-at="2023-12-09T10:00:58 EET" name="testLogout" finished-at="2023-12-09T10:01:03 EET" duration-ms="4324" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogout -->
+      </class> <!-- com.seleniumproject.LoginTest -->
+    </test> <!-- Test1 -->
+    <test started-at="2023-12-09T10:01:03 EET" name="Test4" finished-at="2023-12-09T10:01:08 EET" duration-ms="5102">
+      <class name="com.seleniumproject.jobeTitles.addJobTitlesTest">
+        <test-method signature="testAddTobTitle()[pri:0, instance:com.seleniumproject.jobeTitles.addJobTitlesTest@1283bb96]" started-at="2023-12-09T10:01:03 EET" name="testAddTobTitle" finished-at="2023-12-09T10:01:08 EET" duration-ms="5099" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAddTobTitle -->
+      </class> <!-- com.seleniumproject.jobeTitles.addJobTitlesTest -->
+    </test> <!-- Test4 -->
+    <test started-at="2023-12-09T10:00:54 EET" name="Test3" finished-at="2023-12-09T10:01:09 EET" duration-ms="15410">
+      <class name="com.seleniumproject.activityTypes.activityTypesTest">
+        <test-method signature="testChangeFirstInputField()[pri:1, instance:com.seleniumproject.activityTypes.activityTypesTest@7d8995e]" started-at="2023-12-09T10:00:54 EET" name="testChangeFirstInputField" finished-at="2023-12-09T10:00:59 EET" duration-ms="5786" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testChangeFirstInputField -->
+        <test-method signature="testSearch()[pri:2, instance:com.seleniumproject.activityTypes.activityTypesTest@7d8995e]" started-at="2023-12-09T10:00:59 EET" name="testSearch" finished-at="2023-12-09T10:01:04 EET" duration-ms="4914" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSearch -->
+        <test-method signature="testDeleteFirstInput()[pri:3, instance:com.seleniumproject.activityTypes.activityTypesTest@7d8995e]" started-at="2023-12-09T10:01:04 EET" name="testDeleteFirstInput" finished-at="2023-12-09T10:01:09 EET" duration-ms="4705" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDeleteFirstInput -->
+      </class> <!-- com.seleniumproject.activityTypes.activityTypesTest -->
+    </test> <!-- Test3 -->
+    <test started-at="2023-12-09T10:01:09 EET" name="Test6" finished-at="2023-12-09T10:01:18 EET" duration-ms="9328">
+      <class name="com.seleniumproject.Officials.addOfficialsTest">
+        <test-method signature="addOfficial()[pri:0, instance:com.seleniumproject.Officials.addOfficialsTest@2a3b5b47]" started-at="2023-12-09T10:01:09 EET" name="addOfficial" finished-at="2023-12-09T10:01:14 EET" duration-ms="4838" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addOfficial -->
+        <test-method signature="addOfficial()[pri:0, instance:com.seleniumproject.Officials.addOfficialsTest@2a3b5b47]" started-at="2023-12-09T10:01:14 EET" name="addOfficial" finished-at="2023-12-09T10:01:18 EET" duration-ms="4487" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addOfficial -->
+      </class> <!-- com.seleniumproject.Officials.addOfficialsTest -->
+    </test> <!-- Test6 -->
+    <test started-at="2023-12-09T10:01:08 EET" name="Test5" finished-at="2023-12-09T10:01:22 EET" duration-ms="13885">
+      <class name="com.seleniumproject.jobeTitles.ShowJobTitlesTest">
+        <test-method signature="testChangeFirstInputField()[pri:1, instance:com.seleniumproject.jobeTitles.ShowJobTitlesTest@3349e9bb]" started-at="2023-12-09T10:01:08 EET" name="testChangeFirstInputField" finished-at="2023-12-09T10:01:12 EET" duration-ms="4493" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testChangeFirstInputField -->
+        <test-method signature="testSearch()[pri:2, instance:com.seleniumproject.jobeTitles.ShowJobTitlesTest@3349e9bb]" started-at="2023-12-09T10:01:12 EET" name="testSearch" finished-at="2023-12-09T10:01:17 EET" duration-ms="4522" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSearch -->
+        <test-method signature="testDeleteFirstInput()[pri:3, instance:com.seleniumproject.jobeTitles.ShowJobTitlesTest@3349e9bb]" started-at="2023-12-09T10:01:17 EET" name="testDeleteFirstInput" finished-at="2023-12-09T10:01:22 EET" duration-ms="4866" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDeleteFirstInput -->
+      </class> <!-- com.seleniumproject.jobeTitles.ShowJobTitlesTest -->
+    </test> <!-- Test5 -->
+    <test started-at="2023-12-09T10:01:18 EET" name="Test7" finished-at="2023-12-09T10:01:32 EET" duration-ms="14043">
+      <class name="com.seleniumproject.Officials.ShowOfficialsPageTest">
+        <test-method signature="testChangeFirstInputField()[pri:1, instance:com.seleniumproject.Officials.ShowOfficialsPageTest@18078bef]" started-at="2023-12-09T10:01:18 EET" name="testChangeFirstInputField" finished-at="2023-12-09T10:01:23 EET" duration-ms="4475" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testChangeFirstInputField -->
+        <test-method signature="testSearch()[pri:2, instance:com.seleniumproject.Officials.ShowOfficialsPageTest@18078bef]" started-at="2023-12-09T10:01:23 EET" name="testSearch" finished-at="2023-12-09T10:01:28 EET" duration-ms="4781" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSearch -->
+        <test-method signature="testDeleteFirstInput()[pri:3, instance:com.seleniumproject.Officials.ShowOfficialsPageTest@18078bef]" started-at="2023-12-09T10:01:28 EET" name="testDeleteFirstInput" finished-at="2023-12-09T10:01:32 EET" duration-ms="4782" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDeleteFirstInput -->
+      </class> <!-- com.seleniumproject.Officials.ShowOfficialsPageTest -->
+    </test> <!-- Test7 -->
+  </suite> <!-- Suite1 -->
+</testng-results>
